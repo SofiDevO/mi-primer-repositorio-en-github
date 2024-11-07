@@ -3,6 +3,8 @@
 }
 img {
     width: 100%;
+    max-width: 20rem;
+    margin-top: 2rem;
 }
 
 .logo{
@@ -10,6 +12,10 @@ img {
 }
 a[href='#tienda']{
     color:red;
+}
+body{
+  background-color: black;
+
 }
   .hero__boton{
     background: rgb(37, 37, 37);
@@ -25,6 +31,6 @@ a[href='#tienda']{
     width: 400px;
     height: 100px;
     padding: 5px 10px;
-    color: rgb(112, 10, 214);
+    color: rgb(4, 245, 161);
     font-family: monospace;
   }
